@@ -1,5 +1,7 @@
 # JavaCollections
-Here are some codes
+Here are some codes:
+
+
 import java.util.*;
 
 public class ArrayListEx 
